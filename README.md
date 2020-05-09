@@ -1,3 +1,3 @@
-# python
+# Python
 
 Python files + few others
