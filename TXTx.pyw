@@ -1,3 +1,5 @@
+#(C)Liam Letters, 2021
+
 from tkinter import *
 from tkinter import filedialog
 
